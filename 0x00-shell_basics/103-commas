@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Fxmpa1
+ls -mpa1
